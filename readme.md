@@ -1,0 +1,2 @@
+# Run the script
+`APP_DB_NAME=<database name> APP_DB_USER=<database user> APP_DB_PASS=<database user password> NET_NAME=<host> fi-signup/src/index.js <app admin username> <app admin email> <app admin password>`

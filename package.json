@@ -1,0 +1,23 @@
+{
+  "name": "fi-signup",
+  "version": "0.0.1",
+  "description": "create an admin user for the fi app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "/"
+  },
+  "keywords": [
+    "back-end",
+    "node.js",
+    "mongodb"
+  ],
+  "author": "gottfried",
+  "license": "MIT",
+  "dependencies": {
+    "mongodb": "^5.6.0"
+  }
+}
