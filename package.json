@@ -1,8 +1,9 @@
 {
   "name": "fi-signup",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "create an admin user for the fi app",
   "main": "src/index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
