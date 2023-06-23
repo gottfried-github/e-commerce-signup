@@ -1,5 +1,5 @@
 {
-  "name": "fi-signup",
+  "name": "e-commerce-signup",
   "version": "0.1.0",
   "description": "create an admin user for the fi app",
   "main": "src/index.js",
