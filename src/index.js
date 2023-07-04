@@ -15,6 +15,7 @@ async function main(username, email, password) {
     })
 
     console.log('created admin user successfully')
+    process.exit()
 }
 
 export default main
